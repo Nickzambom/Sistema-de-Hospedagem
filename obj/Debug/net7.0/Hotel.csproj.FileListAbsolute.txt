@@ -1,0 +1,15 @@
+D:\Documentos Nicholas\C#\Hotel\bin\Debug\net7.0\Hotel.exe
+D:\Documentos Nicholas\C#\Hotel\bin\Debug\net7.0\Hotel.deps.json
+D:\Documentos Nicholas\C#\Hotel\bin\Debug\net7.0\Hotel.runtimeconfig.json
+D:\Documentos Nicholas\C#\Hotel\bin\Debug\net7.0\Hotel.dll
+D:\Documentos Nicholas\C#\Hotel\bin\Debug\net7.0\Hotel.pdb
+D:\Documentos Nicholas\C#\Hotel\obj\Debug\net7.0\Hotel.csproj.AssemblyReference.cache
+D:\Documentos Nicholas\C#\Hotel\obj\Debug\net7.0\Hotel.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos Nicholas\C#\Hotel\obj\Debug\net7.0\Hotel.AssemblyInfoInputs.cache
+D:\Documentos Nicholas\C#\Hotel\obj\Debug\net7.0\Hotel.AssemblyInfo.cs
+D:\Documentos Nicholas\C#\Hotel\obj\Debug\net7.0\Hotel.csproj.CoreCompileInputs.cache
+D:\Documentos Nicholas\C#\Hotel\obj\Debug\net7.0\Hotel.dll
+D:\Documentos Nicholas\C#\Hotel\obj\Debug\net7.0\refint\Hotel.dll
+D:\Documentos Nicholas\C#\Hotel\obj\Debug\net7.0\Hotel.pdb
+D:\Documentos Nicholas\C#\Hotel\obj\Debug\net7.0\Hotel.genruntimeconfig.cache
+D:\Documentos Nicholas\C#\Hotel\obj\Debug\net7.0\ref\Hotel.dll
